@@ -2,7 +2,7 @@
 
 #What is this for?
 
-It's a custom view controller transition in the syle of iOS 6 slide transition rather than the iOS 7 style overlap transition.
+It's a custom view controller transition in the syle of iOS 6 slide (or push) transition rather than the iOS 7 style overlap transition.
 
 #What is it based on?
 
