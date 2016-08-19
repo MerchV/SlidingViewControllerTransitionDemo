@@ -23,3 +23,7 @@ Open SlideAnimator.swift. On line 17 you can change the speed. On line 31 you ca
 #What is UIPresentationController?
 
 That it used for custom modal presentations. This isn't a modal presentation and UIPresentationController is not used here.
+
+#How come I can't slide by thumb from the left edge to pop?
+
+Uhh, I haven't implemented that. I think it would require a separate "interactive animator."
